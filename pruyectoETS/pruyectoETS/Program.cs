@@ -10,7 +10,7 @@ namespace pruyectoETS
     {
         static void Main(string[] args)
         {
-            //comentario
+            //nuevo
         }
     }
 }
