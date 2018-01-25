@@ -11,9 +11,6 @@ namespace pruyectoETS
         static void Main(string[] args)
         {
             //comentario
-            //hola 
-            //ohadfigdfig
-                             
         }
     }
 }
